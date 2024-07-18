@@ -34,7 +34,7 @@ loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
-mars.media, 1010442, RESELLER
+mars.media, 1010442, RESELLER, 8624339f102fb076
 onetag.com, 8668c16092f01e8, RESELLER
 onlinemediasolutions.com, 23120, RESELLER
 openx.com, 540393169, RESELLER, 6a698e2ec38604c6
